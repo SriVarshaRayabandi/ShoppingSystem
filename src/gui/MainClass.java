@@ -14,7 +14,7 @@ import java.awt.*;
 
 // Creating the main class which is a type of window (JFrame)
 public class MainClass extends JFrame {
-    // Using CardLayout to switch between different panels like login and catalog
+    // Using CardLayout to switch between different panels like login and ccatalog
     private CardLayout cardLayout = new CardLayout();
     // This is the main panel where we will add other panels and switch between them
     private JPanel cardPanel = new JPanel(cardLayout);
