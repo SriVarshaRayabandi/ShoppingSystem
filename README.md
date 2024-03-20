@@ -14,7 +14,7 @@ Github Repo: https://github.com/SriVarshaRayabandi/ShoppingSystem
 
 - *IntelliJ IDEA (Which I have used)*
 
-- Navigate to the MainClass in the gui package (Path : FinalProject > src > gui)
+- Navigate to the MainClass in the gui package (Path : FinalProject > ShoppingSystem > src > gui)
 - Right-click on MainClass.java and select Run 'MainClass.main()'.
 - The GUI of the shopping system will launch.
 
