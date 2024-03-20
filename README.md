@@ -10,15 +10,11 @@ Github Repo: https://github.com/SriVarshaRayabandi/ShoppingSystem
 - Maven (for dependency management)
 - IntelliJ IDEA or any preferred IDE with Maven support
 
-2. *Install Dependencies*
-
-The project uses Maven for dependency management. Once imported into IntelliJ IDEA, dependencies should be automatically resolved. If not, you can manually trigger the dependencies fetch by opening the Maven tab on the right side of the IDE and clicking the refresh button.
-
 ## Running the Application
 
 - *IntelliJ IDEA (Which I have used)*
 
-- Navigate to the MainClass in the gui package.
+- Navigate to the MainClass in the gui package (Path : FinalProject > src > gui)
 - Right-click on MainClass.java and select Run 'MainClass.main()'.
 - The GUI of the shopping system will launch.
 
